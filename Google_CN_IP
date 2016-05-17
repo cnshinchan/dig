@@ -1,0 +1,56 @@
+# Beijing
+61.49.62.44 r1.sn-jjjxqbx-2x3e.gvt1.com r1.cccedge-pek1.gvt1.com  
+61.49.62.45 r2.sn-jjjxqbx-2x3e.gvt1.com r2.cccedge-pek1.gvt1.com  
+61.49.62.46 r3.sn-jjjxqbx-2x3e.gvt1.com r3.cccedge-pek1.gvt1.com  
+61.49.51.44 r1.sn-jjjxqbx-2x3l.gvt1.com r1.cccedge-pek2.gvt1.com  
+61.49.51.45 r2.sn-jjjxqbx-2x3l.gvt1.com r2.cccedge-pek2.gvt1.com  
+61.49.51.46 r3.sn-jjjxqbx-2x3l.gvt1.com r3.cccedge-pek2.gvt1.com  
+# Shanghai
+101.226.196.172 r1.sn-jjjxqbx-ni5e.gvt1.com r1.cccedge-sha1.gvt1.com  
+101.226.196.173 r2.sn-jjjxqbx-ni5e.gvt1.com r2.cccedge-sha1.gvt1.com  
+101.226.196.174 r3.sn-jjjxqbx-ni5e.gvt1.com r3.cccedge-sha1.gvt1.com  
+101.226.196.204 r1.sn-jjjxqbx-ni5l.gvt1.com r1.cccedge-sha2.gvt1.com  
+101.226.196.205 r2.sn-jjjxqbx-ni5l.gvt1.com r2.cccedge-sha2.gvt1.com  
+101.226.196.206 r3.sn-jjjxqbx-ni5l.gvt1.com r3.cccedge-sha2.gvt1.com  
+# Guangzhou
+183.60.90.108 r1.sn-jjjxqbx-j5oe.gvt1.com r1.cccedge-can1.gvt1.com  
+183.60.90.109 r2.sn-jjjxqbx-j5oe.gvt1.com r2.cccedge-can1.gvt1.com  
+183.60.90.110 r3.sn-jjjxqbx-j5oe.gvt1.com r3.cccedge-can1.gvt1.com  
+58.63.254.108 r1.sn-jjjxqbx-j5ol.gvt1.com r1.cccedge-can2.gvt1.com  
+58.63.254.109 r2.sn-jjjxqbx-j5ol.gvt1.com r2.cccedge-can2.gvt1.com  
+58.63.254.110 r3.sn-jjjxqbx-j5ol.gvt1.com r3.cccedge-can2.gvt1.com  
+# Wuhan
+59.173.16.236 r1.sn-jjjxqbx-f0ie.gvt1.com r1.cccedge-wuh1.gvt1.com  
+59.173.16.237 r2.sn-jjjxqbx-f0ie.gvt1.com r2.cccedge-wuh1.gvt1.com  
+59.173.16.238 r3.sn-jjjxqbx-f0ie.gvt1.com r3.cccedge-wuh1.gvt1.com  
+59.173.16.172 r1.sn-jjjxqbx-f0il.gvt1.com r1.cccedge-wuh2.gvt1.com  
+59.173.16.173 r2.sn-jjjxqbx-f0il.gvt1.com r2.cccedge-wuh2.gvt1.com  
+59.173.16.174 r3.sn-jjjxqbx-f0il.gvt1.com r3.cccedge-wuh2.gvt1.com  
+# Chengdu
+222.211.87.12 r1.sn-jjjxqbx-ju0e.gvt1.com r1.cccedge-ctu1.gvt1.com  
+222.211.87.13 r2.sn-jjjxqbx-ju0e.gvt1.com r2.cccedge-ctu1.gvt1.com  
+222.211.87.14 r3.sn-jjjxqbx-ju0e.gvt1.com r3.cccedge-ctu1.gvt1.com  
+222.211.87.44 r1.sn-jjjxqbx-ju0l.gvt1.com r1.cccedge-ctu2.gvt1.com  
+222.211.87.45 r2.sn-jjjxqbx-ju0l.gvt1.com r2.cccedge-ctu2.gvt1.com  
+222.211.87.46 r3.sn-jjjxqbx-ju0l.gvt1.com r3.cccedge-ctu2.gvt1.com  
+# Nanjing
+180.96.71.172 r1.sn-jjjxqbx-o3be.gvt1.com r1.cccedge-nkg1.gvt1.com  
+180.96.71.173 r2.sn-jjjxqbx-o3be.gvt1.com r2.cccedge-nkg1.gvt1.com  
+180.96.71.174 r3.sn-jjjxqbx-o3be.gvt1.com r3.cccedge-nkg1.gvt1.com  
+180.96.70.108 r1.sn-jjjxqbx-o3bl.gvt1.com r1.cccedge-nkg2.gvt1.com  
+180.96.70.109 r2.sn-jjjxqbx-o3bl.gvt1.com r2.cccedge-nkg2.gvt1.com  
+180.96.70.110 r3.sn-jjjxqbx-o3bl.gvt1.com r3.cccedge-nkg2.gvt1.com  
+# Xi'an
+117.34.15.204 r1.sn-jjjxqbx-mpte.gvt1.com r1.cccedge-xiy1.gvt1.com  
+117.34.15.205 r2.sn-jjjxqbx-mpte.gvt1.com r2.cccedge-xiy1.gvt1.com  
+117.34.15.206 r3.sn-jjjxqbx-mpte.gvt1.com r3.cccedge-xiy1.gvt1.com  
+117.34.15.236 r1.sn-jjjxqbx-mptl.gvt1.com r1.cccedge-xiy2.gvt1.com  
+117.34.15.237 r2.sn-jjjxqbx-mptl.gvt1.com r2.cccedge-xiy2.gvt1.com  
+117.34.15.238 r3.sn-jjjxqbx-mptl.gvt1.com r3.cccedge-xiy2.gvt1.com  
+# Shenyang
+124.95.172.108 r1.sn-jjjxqbx-nixe.gvt1.com r1.cccedge-she1.gvt1.com  
+124.95.172.109 r2.sn-jjjxqbx-nixe.gvt1.com r2.cccedge-she1.gvt1.com  
+124.95.172.110 r3.sn-jjjxqbx-nixe.gvt1.com r3.cccedge-she1.gvt1.com  
+124.95.174.44 r1.sn-jjjxqbx-nixl.gvt1.com r1.cccedge-she2.gvt1.com  
+124.95.174.45 r2.sn-jjjxqbx-nixl.gvt1.com r2.cccedge-she2.gvt1.com  
+124.95.174.46 r3.sn-jjjxqbx-nixl.gvt1.com r3.cccedge-she2.gvt1.com  
